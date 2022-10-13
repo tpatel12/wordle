@@ -1,2 +1,0 @@
-# wordle
-Wordle-playing bot
